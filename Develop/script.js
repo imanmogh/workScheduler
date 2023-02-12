@@ -103,6 +103,6 @@ $(function () {
 
   
   // TODO: Add code to display the current date in the header of the page.
-  var dayWeek = today.format('[Today is] dddd[,] MMMM DD');
+  var dayWeek = today.format('[Today is] dddd[,] MMMM DD [-] hh[:]mm');
   $('#currentDay').text(dayWeek);
 });
