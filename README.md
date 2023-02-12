@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-![Alt text](workScheduler/Assets/Screenshot-1.png)
+![Alt text](/Assets/Screenshot-1.png)
 
 ## Credits
 
